@@ -1,0 +1,65 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+/* 🤓☝ */
+
+table {
+  border-spacing: 12px 5px;
+  /* padding: 0 2em 1em 0; */
+}
+
+td {
+  /* width: 1.5em;
+  height: 1.5em; */
+  background: rgb(0, 0, 0);
+  /* text-align: center;
+  vertical-align: middle; */
+  border: 1px solid rgb(255, 217, 0);
+  padding: 16px;
+  background-image:url('img/bar.png');
+  background-repeat:repeat-x;
+  image-rendering: pixelated;
+
+  vertical-align: top;
+}
+
+body {
+  background-image:url('img/bg.png');
+  background-repeat: repeat-y;
+  /* background-attachment: fixed; */
+  /* background-position: center; */
+  image-rendering: pixelated;
+  font-smooth: never;
+}
+
+#container {
+  max-width: 800px;
+  margin:0 auto;
+  position:relative;
+}
+
+#tilly1 {
+  margin-top:-80px;
+  right:0;
+  height: 50px;
+  width: 50px;
+  background-image:url('img/decor/tilly.png');
+  background-repeat:no-repeat;
+  position:absolute;
+  image-rendering: pixelated;
+
+}
+
+#tilly2 {
+  margin-top:-70px;
+  left:30px;
+  height: 50px;
+  width: 50px;
+  background-image:url('img/decor/tilly2.png');
+  background-repeat:no-repeat;
+  position:absolute;
+  image-rendering: pixelated;
+
+}
+
