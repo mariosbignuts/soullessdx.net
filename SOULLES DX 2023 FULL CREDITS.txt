@@ -1,0 +1,149 @@
+SOULLES DX 2023 FULL CREDITS (from memory, i am writing this down at 2:11 AM, please let me know if i missed anything!)
+
+PROGRAMMING
+3D - Lunarcleint, PaigeyPaper (do not ask us for advice, we did this almost three years ago and we've already forgotten how it works)
+Title Screen - PaigeyPaper
+Pause Menu - PaigeyPaper
+Sonic CD HUD (Gamebreaker) - Stilic, aerolithe
+Shaders - YoshiCrafter29
+Volume Control - PaigeyPaper
+
+STAGE CODING
+Bitchin - PaigeyPaper
+CYS - PaigeyPaper
+Encore - PaigeyPaper
+Encore (3D) - Lunarcleint, PaigeyPaper
+Ice - PaigeyPaper
+Milk - PaigeyPaper
+Requital - PaigeyPaper
+Robbery - PaigeyPaper
+Sanic - PaigeyPaper
+SMPLive - PaigeyPaper
+Soulless - PaigeyPaper
+StardustSpeedway (remains) - aerolithe
+Step - Stilic, PaigeyPaper
+Untitled - PaigeyPaper
+XS - PaigeyPaper
+
+CHARTING
+2sday - Drizzle
+Azerty - Drizzle
+Bitchin - RayRay
+CYS - PaigeyPaper
+Ice - PaigeyPaper
+Milk - Gibz, PaigeyPaper
+Moonlight - Drizzle
+Prey - PaigeyPaper
+Robbery - PaigeyPaper
+Schlatt - PaigeyPaper
+Shockwave - Drizzle
+Soulless - Gibz, PaigeyPaper
+Step - PaigeyPaper
+Sunshine Encore - PaigeyPaper
+T-Money - PaigeyPaper
+Too Slow Sillycore - PaigeyPaper
+Too Fest - Gibz
+Untitled - PaigeyPaper
+
+SONG CREDITS
+2sday - PaigeyPaper
+Azerty - PaigeyPaper
+Bitchin - Zykrom, PaigeyPaper
+CYS - Saster, PaigeyPaper
+Ice - Kiwiquest, Dangen
+Milk - Squeak
+Moonlight - Rareblin, PaigeyPaper
+Prey - SimplyCrispy
+Robbery - Dangen
+Schlatt - TikTakt ft. Razzy, PaigeyPaper (Cover)
+Shockwave - CheeseWithCake
+Soulless - TaeSkull, Saster
+Step - Mio Honda
+Sunshine Encore - Squeak
+T-Money - CheeseWithCake
+Too Slow Sillycore - PaigeyPaper
+Too Fest - Punkett
+Untitled - PaigeyPaper
+Main Menu - Saster, Juora, RiverMusic
+Pause Menu (The Penis (Eek!)) - Surasshu
+
+ASSETS
+Disclaimer Image - PaigeyPaper
+Title Screen - PaigeyPaper
+Logos - PaigeyPaper
+
+CHARACTER SPRITES
+Coldsteel (& bf)- Drizzle, Maple
+Sanic - PaigeyPaper
+Sanic bf - StoneSteve
+Bitchin (EXE & TD) - RayRay
+brody - bro i don't know 😭😭 ava just added these one day
+Rob in (Faker & Rob Form) - ValeriousVal
+2D Sunshine Encore (TD & BF) - PaigeyPaper
+3D Sunshine Encore (TD & BF) - Lunarcleint, PaigeyPaper
+Soulless - PaigeyPaper
+untitled (TD & BF) - PaigeyPaper
+T-Money (td & bf) - Champ
+T-Money (Close-up) - APerson22, PaigeyPaper
+Moonlight (Tails, BF, TD) - GoodieBag
+Requital (+ Pico) - Iseta
+Schlagg (+ slimecicle) - PaigeyPaper
+Sunky (+ bf) - PaigeyPaper
+XS (sonic + bf) - PaigeyPaper
+
+STAGE ASSETS
+Bitchin - RayRay
+2D Sunshine Encore - PaigeyPaper
+Ice - PaigeyPaper
+Moonlight - GoodieBag
+Requital - Iseta
+Robbery - PaigeyPaper
+Robbery (BG) - ValeriousVal, Dangen, Maple, Drizzle, PaigeyPaper
+SMPLive - PaigeyPaper
+Soulless - PaigeyPaper
+Step - PaigeyPaper
+Milk - PaigeyPaper
+T-Money - PaigeyPaper
+Shockwave - PaigeyPaper
+Sanic - PaigeyPaper
+Untitled - PaigeyPaper
+
+ICON SETS
+Bitchin - RayRay
+Moonlight - GoodieBag
+Milk - PaigeyPaper
+Prey - RayRay
+Soulless - i forgot im sorry
+
+PAUSE SCREEN SETS
+Bitchin - RayRay, PaigeyPaper
+CYS - PaigeyPaper
+Ice - Drizzle
+Robbery - RayRay
+Untitled - PaigeyPaper
+
+HUD ASSETS
+Ice - PaigeyPaper
+Sunky - PaigeyPaper
+T-Money - PaigeyPaper
+Robbery - PaigeyPaper
+Pause Menu UI - PaigeyPaper
+Menu Transition Sprite - RayRay 
+
+MENU PORTRAITS
+2sday - Iseta
+
+NOTESKINS
+Pixel (Prey) - RayRay
+Msp (Untitled) - PaigeyPaper
+Rob - PaigeyPaper
+Sanic - PaigeyPaper
+Ice (frozen & normal) - PaigeyPaper
+StepMania - Olivier99
+
+Miscallenious (stuff that is not in the build, but have assets left over)
+sdx runner - PaigeyPaper
+bf-quid - PaigeyPaper
+yoshiShaders - YoshiCrafter29
+3d FNF Stage - someone from the cne dev group chat i forgot your name im sorry :sob: i can't find you
+gamebreaker chart - DuskieWhy
