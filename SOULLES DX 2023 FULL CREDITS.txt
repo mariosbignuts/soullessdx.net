@@ -4,7 +4,6 @@ PROGRAMMING
 3D - Lunarcleint, PaigeyPaper (do not ask us for advice, we did this almost three years ago and we've already forgotten how it works)
 Title Screen - PaigeyPaper
 Pause Menu - PaigeyPaper
-Sonic CD HUD (Gamebreaker) - Stilic, aerolithe
 Shaders - YoshiCrafter29
 Volume Control - PaigeyPaper
 
@@ -33,7 +32,6 @@ CYS - PaigeyPaper
 Ice - PaigeyPaper
 Milk - Gibz, PaigeyPaper
 Moonlight - Drizzle
-Prey - PaigeyPaper
 Robbery - PaigeyPaper
 Schlatt - PaigeyPaper
 Shockwave - Drizzle
@@ -53,7 +51,6 @@ CYS - Saster, PaigeyPaper
 Ice - Kiwiquest, Dangen
 Milk - Squeak
 Moonlight - Rareblin, PaigeyPaper
-Prey - SimplyCrispy
 Robbery - Dangen
 Schlatt - TikTakt ft. Razzy, PaigeyPaper (Cover)
 Shockwave - CheeseWithCake
@@ -77,7 +74,7 @@ Coldsteel (& bf)- Drizzle, Maple
 Sanic - PaigeyPaper
 Sanic bf - StoneSteve
 Bitchin (EXE & TD) - RayRay
-brody - bro i don't know 😭😭 ava just added these one day
+brody - bro i don't know 😭😭 cam just added these one day
 Rob in (Faker & Rob Form) - ValeriousVal
 2D Sunshine Encore (TD & BF) - PaigeyPaper
 3D Sunshine Encore (TD & BF) - Lunarcleint, PaigeyPaper
@@ -112,7 +109,6 @@ ICON SETS
 Bitchin - RayRay
 Moonlight - GoodieBag
 Milk - PaigeyPaper
-Prey - RayRay
 Soulless - i forgot im sorry
 
 PAUSE SCREEN SETS
@@ -134,7 +130,6 @@ MENU PORTRAITS
 2sday - Iseta
 
 NOTESKINS
-Pixel (Prey) - RayRay
 Msp (Untitled) - PaigeyPaper
 Rob - PaigeyPaper
 Sanic - PaigeyPaper
@@ -147,3 +142,8 @@ bf-quid - PaigeyPaper
 yoshiShaders - YoshiCrafter29
 3d FNF Stage - someone from the cne dev group chat i forgot your name im sorry :sob: i can't find you
 gamebreaker chart - DuskieWhy
+Prey icons - RayRay
+Pixel Noteskins (Prey) - RayRay
+Prey Music - SimplyCrispy
+Prey Chart- PaigeyPaper
+Sonic CD HUD (Gamebreaker) - Stilic, aerolithe
